@@ -3,6 +3,6 @@ uvicorn==0.30.1
 PyJWT==2.8.0
 bcrypt==4.0.1
 sentence-transformers==3.0.0
-torch==2.2.2
+torch
 pydantic==2.7.4
 python-multipart==0.0.9
